@@ -6,5 +6,6 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [local.oracle/javafxrt "2.2.40"]]
   :aot [javafx-examples-clj.hello-world
+        javafx-examples-clj.login
         javafx-examples-clj.core]
   :main javafx-examples-clj.core)

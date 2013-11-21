@@ -3,4 +3,4 @@
 
 
 (defn -main [& args]
-  (javafx.application.Application/launch clj.javafx.HelloWorld (into-array String [])))
+  (javafx.application.Application/launch clj.javafx.Login (into-array String [])))
